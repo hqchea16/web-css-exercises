@@ -9,3 +9,9 @@
 
 </body>
 </html>
+
+
+body{
+    font-family: Verdana;
+    font-size: 14px;
+}
